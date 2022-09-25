@@ -1,10 +1,6 @@
 # Discord Auto Typer
 
-made with js 💛 && star repo 🌟 if you like
 
-Full example of it logging it and running in background!
-
-<img alt="example" src="https://jayson.codes/DZKjZ2mWp5.gif"/>
 
 runs in background on chromium, so you can use discord app and it won't interrupt with your typing! 
 
